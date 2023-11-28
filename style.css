@@ -1,15 +1,25 @@
 body{
-    background-color: #be5fc5;
+    background-color: rgb(56, 250, 192) 190, 197);
 }
 
    #titulo {
-    color: #3ca00e;
+    color: #0ea05c;
     font-size: 50px;
     text-align: center;
 }
 
    . texto {
-    color: #2fd9d1;
+    color: #7efff9;
     font-size: 30px;
     text-align: justify;
+}
+
+#imagem{
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px greenyellow;
+border-radius: 20px;
+
 }
