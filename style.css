@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(56, 250, 192) 190, 197);
+    background-color: rgb(0, 253, 177) 190, 197);
 }
 
    #titulo {
@@ -9,7 +9,7 @@ body{
 }
 
    . texto {
-    color: #7efff9;
+    color: #65f7ef;
     font-size: 30px;
     text-align: justify;
 }
@@ -19,7 +19,7 @@ body{
     width: 150px;
     padding: 5px;
     margin: 5px;
-    border: 2px greenyellow;
+    border: 2px rgb(19, 235, 127);
 border-radius: 20px;
 
 }
