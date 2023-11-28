@@ -2,13 +2,13 @@ body{
     background-color: #65f7ef;
 }
 
-   #titulo {
+#titulo {
     color: #0ea05c;
     font-size: 50px;
     text-align: center;
 }
 
-   . texto {
+. texto {
     color: #65f7ef;
     font-size: 30px;
     text-align: justify;
@@ -19,7 +19,7 @@ body{
     width: 150px;
     padding: 5px;
     margin: 5px;
-    border: 2px rgb(19, 235, 127);
+    border: 2px #0ea05c;
 border-radius: 20px;
 
 }
